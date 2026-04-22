@@ -1,0 +1,22 @@
+.navbar {
+  border-bottom: 1px solid #ddd;
+}
+
+.navbar-brand i {
+  font-size: 1.3rem;
+}
+
+.btn-success {
+  background-color: #28a745;
+  border: none;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  border: none;
+}
+
+.grid-tight > .col {
+    flex: 0 0 30%;
+    max-width: 30%;
+}
